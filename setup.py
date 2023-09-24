@@ -2,8 +2,8 @@ from setuptools import setup
 from typing import List
 
 PROJECT_NAME ="housing-predictor"
-VERSION ="0.0.1"
-AUTHOR="ASIFUZZAMAN"
+VERSION ="0.1.1"
+AUTHOR="Updater"
 DESCRIPTION="My first package related project work"
 PACKAGES = ["housing"]
 REQUIREMENT_FILE_NAME = "requirements.txt"
